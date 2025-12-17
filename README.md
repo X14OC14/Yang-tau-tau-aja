@@ -3,45 +3,6 @@
 <head>
   <meta charset="UTF-8">
   <title>Mafy Remote</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #fdf6f0;
-      color: #333;
-      line-height: 1.6;
-      padding: 2rem;
-    }
-    h1 {
-      color: #ff69b4;
-      text-align: center;
-    }
-    h2 {
-      color: #ff1493;
-      border-bottom: 2px solid #ffb6c1;
-      padding-bottom: 0.3rem;
-    }
-    code {
-      background-color: #fff0f5;
-      padding: 0.2rem 0.4rem;
-      border-radius: 4px;
-      font-weight: bold;
-    }
-    pre {
-      background-color: #ffe4e1;
-      padding: 1rem;
-      border-radius: 6px;
-      overflow-x: auto;
-    }
-    .note {
-      background-color: #fff0f5;
-      border-left: 5px solid #ff69b4;
-      padding: 0.5rem 1rem;
-      margin: 1rem 0;
-    }
-    .emoji {
-      font-size: 1.2rem;
-    }
-  </style>
 </head>
 <body>
   <h1>Mafy Remote</h1>
