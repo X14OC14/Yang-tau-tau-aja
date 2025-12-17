@@ -15,7 +15,7 @@
   </p>
   
   <div class="note">
-    ⚠️ Gunakan hanya untuk eksperimen pribadi & belajar. Jangan digunakan untuk hal ilegal 😇
+    ⚠️ Gunakan hanya untuk eksperimen pribadi & belajar. Jangan digunakan untuk hal ilegal 
   </div>
   
   <h2>Cara Pakai</h2>
